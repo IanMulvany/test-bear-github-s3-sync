@@ -1,0 +1,1 @@
+this is the second test file, after making the target S3 bucket public. 
